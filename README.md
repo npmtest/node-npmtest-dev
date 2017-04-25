@@ -1,4 +1,7 @@
-# test coverage for  [dev (v0.1.3)](https://github.com/iliakan/node-dev#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dev.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dev) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dev.svg)](https://travis-ci.org/npmtest/node-npmtest-dev)
+# npmtest-dev
+
+#### basic test coverage for  [dev (v0.1.3)](https://github.com/iliakan/node-dev#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dev.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dev) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dev.svg)](https://travis-ci.org/npmtest/node-npmtest-dev)
+
 #### Reruns the given file whenever the current working dir subtree has modifications.
 
 [![NPM](https://nodei.co/npm/dev.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dev)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-dev/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-dev/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-dev/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-dev/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dev/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dev/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-dev/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-dev/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dev/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dev/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-dev/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-dev/build/coverage.html/index.html)
 
